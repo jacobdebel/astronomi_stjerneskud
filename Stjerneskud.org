@@ -1,0 +1,68 @@
+#+title: Stjerneskud
+#+subtitle: Astronomi C
+#+author: Jacob Debel
+#+date: 
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: night
+#+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+# #+reveal_title_slide_background: ./img/perseids_tudorica.jpg
+#+reveal_title_slide_background: ./img/stjerneskud_gif.webp
+#+reveal_title_slide_background_position: center bottom 100px
+#+reveal_title_slide_background_size: 30%
+#+reveal_default_slide_background:
+#+reveal_extra_options: slideNumber:"c",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+# #+reveal_extra_attr: style="color:red"
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+* Har I set nogle stjerneskud for nyligt?
+
+#+attr_html: :height 400px
+[[./img/falling-stars.gif]]
+
+* Højsæson omkring d. 12. aug hvert år
+
+#+attr_html: :height 400px
+[[./img/perseids_tudorica.jpg]]
+
+* Her er grunden
+
+#+attr_html: :height 400px
+[[https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=109p&view=V][file:./img/Screenshot_ssd_jpl_nasa_orbit_viewer.png]]
+
+https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=109p&view=V
+
+* flashcards
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div style="display: grid; grid-template-columns: auto auto;">
+#+reveal_html: <div>
+1. Hvornår optræder stjerneskudssværmen Perseiderne?
+2. Hvad er et stjerneskud?
+3. Hvad sker der, når Jorden bevæger sig gennem resterne af en komet?
+4. Hvorfra stammer såkaldte meteorsværme?
+5. Hvordan ser en skitse ud, som viser, at Perseiderne optræder på samme tidspunkt hvert år?
+6. Hvad hedder kometen, som er årsag  til Perseiderne? Hvad er dennes omløbstid om Solen?
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+7. [@7] Hvorfor stiger antallet af stjerneskud efter midnat?
+8. Hvorfor ser stjerneskuddene ud til at udstråle fra samme punkt på himlen (radianten)?
+9. Hvorfra stammer navner Perseiderne?
+10. Hvorfor kaldes Perseiderne også for Sankt Laurentii tårer?
+11. Hvor er kometen, som er årsag til Perseiderne, for øjeblikket i sin bane, og hvornår passerer den igen Jordens bane?
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+#+reveal_html: </div>
+
+
+
+* Lidt litteratur
+- [[./artikler/Skankt_Laurentii_Taarer_rammer_nattehimlen_KristeligtDagblad.pdf][Skant Laurentii tårer rammer nattehimlen - Kristeligt Dagblad pdf]] eller https://www.kristeligt-dagblad.dk/bagsiden/skt.-laurentii-taarer-rammer-nattehimlen
+- https://science.nasa.gov/science-news/science-at-nasa/2015/11aug_perseids/
+- https://www.chiff.com/home_life/holiday/perseids.htm
+
+* Meteorer
+#+begin_export html
+<iframe width="800" height="600" src="https://www.youtube.com/embed/TuDfZ2Md5x8" title="Meteors: Crash Course Astronomy #23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
